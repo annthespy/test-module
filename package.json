@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/annthespy/test-module#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   }
 }
