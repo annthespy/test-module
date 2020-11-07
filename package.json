@@ -1,0 +1,19 @@
+{
+  "name": "my_hack_reactor_test_project",
+  "version": "1.0.0",
+  "description": "blah blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annthespy/test-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annthespy/test-module/issues"
+  },
+  "homepage": "https://github.com/annthespy/test-module#readme"
+}
